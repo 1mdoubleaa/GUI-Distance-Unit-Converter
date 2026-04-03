@@ -2,11 +2,6 @@
 
 A tkinter-based desktop GUI application that converts distances between kilometers and miles.
 
-**Course:** Intro to Programming — Durham College
-**Assignment:** 4 (User Interface)
-**Author:** Muhammad Anwar (100759431)
-**Date:** April 8, 2023
-
 ---
 
 ## Features
